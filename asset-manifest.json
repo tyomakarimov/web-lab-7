@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-lab-7/static/css/main.90d57e4e.css",
+    "main.js": "/web-lab-7/static/js/main.7c8383bb.js",
+    "index.html": "/web-lab-7/index.html",
+    "main.90d57e4e.css.map": "/web-lab-7/static/css/main.90d57e4e.css.map",
+    "main.7c8383bb.js.map": "/web-lab-7/static/js/main.7c8383bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d57e4e.css",
+    "static/js/main.7c8383bb.js"
+  ]
+}
