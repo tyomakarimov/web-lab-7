@@ -1,0 +1,12 @@
+.goods {
+  display: flex;
+}
+
+.good {
+  text-align: center;
+}
+
+.image {
+  width: 250px;
+  height: 166px;
+}

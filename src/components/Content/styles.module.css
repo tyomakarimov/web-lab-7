@@ -1,0 +1,13 @@
+.birth {
+  background-color: #ff7f50;
+  color: #fff;
+}
+
+.education {
+  background-color: #7fffd4;
+  color: #ff28c2;
+}
+
+.information {
+  cursor: pointer;
+}
